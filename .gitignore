@@ -1,0 +1,12 @@
+# Cartelle da ignorare
+__pycache__/
+.pytest_cache/
+.vscode/
+
+# File da ignorare
+.DS_Store
+*.pyc
+*.pyo
+*.log
+*.env
+myvenv/

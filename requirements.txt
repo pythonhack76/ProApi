@@ -1,0 +1,12 @@
+pydantic
+sqlalchemy
+fastapi
+motor
+requests
+pytest
+coverage
+loguru
+aioredis
+aiosqlite
+jinja2
+uvicorn
